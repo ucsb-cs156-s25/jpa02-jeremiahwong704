@@ -44,6 +44,7 @@ public class DeveloperTest {
     @Test
     public void getTeam_returns_team_with_correct_members() {
         Team  t = Developer.getTeam();
+        assertTrue(t.getMembers().contains("Jeremiah"));
         assertTrue(t.getMembers().contains("Ethan"));
         assertTrue(t.getMembers().contains("Joe"));
         assertTrue(t.getMembers().contains("Montgomery"));

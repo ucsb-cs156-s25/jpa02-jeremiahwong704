@@ -8,7 +8,7 @@ Repo: https://github.com/ucsb-cs156-s25/jpa02-jeremiahwong704
   https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
 
 
-Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa02-jeremiahwong.dokku-04.cs.ucsb.edu/
 
 
 # About this repo
